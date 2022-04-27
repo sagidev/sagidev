@@ -18,8 +18,3 @@
 - 😵 I play League of Legends for a very long time, so a lot of my projets are based on this exact game such as **private** Account Manager or **Spinjitzuu** orbwalking script.
 - ⚡ I'm a League of Legends elobooster in my own [SBOOST.GG](https://discord.gg/ezt8AvEJCs)
 - 🥵 I love JRPGs but I don't watch anime. crazy
-- 
-<!---
-sagidev/sagidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

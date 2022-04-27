@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @sagidev
 - 👀 I’m interested in C#/Game hacking 
 - 🚀 Crator of private League of Legends scripting software **Spinjitzuu**
-- 🌱 I’m currently learning Wordpress/PHP/C++
+- 🌱 I’m currently learning Wordpress/PHP/C++/Java
 - 📫 How to reach me sagi#2230
 
 ## 🚀 My skillset

@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @sagidev
 - 👀 I’m interested in C#/Game hacking 
-- 🚀 Crator of private League of Legends scripting software **Spinjitzuu**
+- 🚀 Crator of private League of Legends scripting software [spinjitzuu](https://github.com/sagidev/spinjitzuu-public)
 - 🌱 I’m currently learning Wordpress/PHP/C++/Java
 - 📫 How to reach me sagi#2230
 

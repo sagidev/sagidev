@@ -15,6 +15,6 @@
 
 ## 🤓 Cool facts
 - 😴 I dont attend **hackatons** cuz im either too lazy or not enough experienced/skilled.
-- 😵 I play League of Legends for a very long time, so a lot of my projets are based on this exact game such as **private** Account Manager or **Spinjitzuu** orbwalking script.
+- 😵 I play League of Legends for a very long time, so a lot of my projets are based on this exact game such as **private** Account Manager or [spinjitzuu](https://github.com/sagidev/spinjitzuu-public) orbwalking script.
 - ⚡ I'm a League of Legends elobooster in my own [SBOOST.GG](https://discord.gg/ezt8AvEJCs)
 - 🥵 I love JRPGs but I don't watch anime. crazy

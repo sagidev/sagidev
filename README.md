@@ -19,5 +19,5 @@
 - ⚡ I'm a League of Legends elobooster in my own [SBOOST.GG](https://discord.gg/ezt8AvEJCs)
 
 ## ✅ Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagidev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagidev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

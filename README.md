@@ -7,8 +7,8 @@
 - 📫 How to reach me sagi#2230
 
 ## 🚀 My skillset
-- C# - My the best and the most comfortable programming language.
-- C++/Python - Advanced level.
+- C#/C++ - My the best and the most comfortable programming languages.
+- Python/Lua - Advanced level.
 - Java/Javascript - A bit above basics i guess.
 - HTML/CSS/Wordpress - I tried some web dev, but it think i should not stick to this. Some examples [Here](http://sagidev.eu/)
 - Photoshop/Gimp - Advanced level. I guess i know enough to help myself with some banners or graphics on websites/apps or any other projets.

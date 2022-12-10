@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Wordpress/PHP/C++/Java
 - 📫 How to reach me sagi#2230
 
-## 🚀 Projects
+## ⚡ Projects
 - SPINJITZUU.LOL - High Quality League of Legends External Script. In the past i made a pixelsearch based one - [spinjitzuu](https://github.com/sagidev/spinjitzuu-public). Currently working on P2C one - https://league-script.com/
 - Brand new League of Legends External LUA Scripting platform.
 - Valorant PixelBased Cheat

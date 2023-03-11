@@ -12,9 +12,9 @@
 - Roblox Gamedev
 
 ## 🚀 My skillset
-- C#/C++ - My the best and the most comfortable programming languages.
-- Python/Lua - Advanced level.
-- Java/Javascript - A bit above basics i guess.
+- C#/C++/Lua - My the best and the most comfortable programming languages.
+- Python - Advanced level.
+- Java/Javascript/ThreeJs/ASP.NET - A bit above basics i guess.
 - HTML/CSS/Wordpress - I tried some web dev, but it think i should not stick to this. Some examples [Here](http://sagidev.eu/)
 - Photoshop/Gimp - Advanced level. I guess i know enough to help myself with some banners or graphics on websites/apps or any other projets.
 

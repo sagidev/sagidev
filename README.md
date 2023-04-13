@@ -1,4 +1,4 @@
-# 👋 Hi, I’m sagidev, a C++/C# developer
+# 👋 Hi, I’m sagidev, a C#/C++ developer
 
 - 👀 Gamehacking enjoyer and IT student.  
 - ⚡ Creator of opensource League of Legends pixelbased scripting software [spinjitzuu-public](https://github.com/sagidev/spinjitzuu-public)

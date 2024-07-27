@@ -1,6 +1,6 @@
 # 👋 Hi, I’m sagidev, a C#/C++ developer
 
-- 👀 Reverse engineering enjoyer and IT student.  
+- 👀 Reverse engineering enjoyer and Software Developer.  
 - ⚡ Creator of opensource League of Legends pixelbased orbwalking software [spinjitzuu-public](https://github.com/sagidev/spinjitzuu-public)
 - 🚀 Creator of paid League of Legends RPM memory scanning platform [spinjitzuu.lol](https://league-script.com/)
 - 👨‍💻 Skills: C#/C++/Lua/Python

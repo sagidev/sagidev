@@ -2,6 +2,7 @@
 
 - 👀 Reverse engineering enjoyer and Software Developer.  
 - ⚡ Creator of opensource League of Legends pixelbased orbwalking software [spinjitzuu-public](https://github.com/sagidev/spinjitzuu-public)
+- 💪 Creator of self-leaked [LUA Scripting Platform](https://github.com/sagidev/LUA_Scripting_Platform)
 - 🚀 Creator of paid League of Legends RPM memory scanning platform spinjitzuu.lol
 - 👨‍💻 Skills: C++/C#/Lua/Python
 <p>

@@ -5,7 +5,8 @@
 - 💪 Creator of open-source [LUA Scripting Platform](https://github.com/sagidev/LUA_Scripting_Platform)
 - 🚀 Creator of paid League of Legends RPM memory scanning platform spinjitzuu.lol
 - 🐱‍👤 Creator of private League of Legends external software - spinjitzuu reborn
-- 👨‍💻 Skills: C++/C#/Lua/Python
+- 🎮 Learning GameDev for a year+
+- 👨‍💻 Skills: C++/C#/Lua/Python/GDScript
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagidev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=sagidev%27s%20Github%20Statistics&theme=github_dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagidev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark"/>

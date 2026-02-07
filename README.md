@@ -6,6 +6,7 @@
 - 🚀 Creator of paid League of Legends RPM memory scanning platform spinjitzuu.lol
 - 🐱‍👤 Creator of private League of Legends external software - spinjitzuu reborn
 - 🎮 Indie game developer for almost 2 years
+- 📱 Mobile apps developer
 - 👨‍💻 Skills: C++/C#/Lua/Python/GDScript
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagidev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=sagidev%27s%20Github%20Statistics&theme=github_dark" />
